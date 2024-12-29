@@ -1,0 +1,9 @@
+name: seqkit
+channels:
+  - silentgene
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - seqkit=2.8.1=h9ee0642_0
+prefix: /home/xiaomeng/miniconda3/envs/seqkit
