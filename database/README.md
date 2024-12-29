@@ -1,1 +1,1 @@
-
+genomad download-database .
