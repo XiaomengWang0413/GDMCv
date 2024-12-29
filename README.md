@@ -65,7 +65,9 @@ options:
 ## Reference
 ~~~
 1. Camargo, A. P., Roux, S., Schulz, F., Babinski, M., Xu, Y., Hu, B., Chain, P. S. G., Nayfach, S., & Kyrpides, N. C. — Nature Biotechnology (2023), DOI: 10.1038/s41587-023-01953-y.
-2. Shengwei Hou, Tianqi Tang, Siliangyu Cheng, Yuanhao Liu, Tian Xia, Ting Chen, Jed A Fuhrman, Fengzhu Sun, DeepMicroClass sorts metagenomic contigs into prokaryotes, eukaryotes and viruses, NAR Genomics and Bioinformatics, Volume 6, Issue 2, June 2024, lqae044, https://doi.org/10.1093/nargab/lqae044
+
+2. Shengwei Hou, Tianqi Tang, Siliangyu Cheng, Yuanhao Liu, Tian Xia, Ting Chen, Jed A Fuhrman, Fengzhu Sun, DeepMicroClass sorts metagenomic contigs into prokaryotes, eukaryotes and viruses, NAR Genomics and Bioinformatics, Volume 6, Issue 2, June 2024, lqae044, https://doi.org/10.1093/nargab/lqae044.
+
 3. Wei Shen*, Botond Sipos, and Liuyang Zhao. 2024. SeqKit2: A Swiss Army Knife for Sequence and Alignment Processing. iMeta e191. doi:10.1002/imt2.191.
 ~~~
 
