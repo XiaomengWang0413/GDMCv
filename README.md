@@ -64,7 +64,7 @@ options:
 ## example
 ~~~
 gunzip test.fasta.gz
-python GDMCv.py -i test.fasta -l 5000 -0 Virus
+python GDMCv.py -i test.fasta -l 5000 -o test
 ~~~
 
 ## Reference
