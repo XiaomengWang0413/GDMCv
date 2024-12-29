@@ -61,6 +61,11 @@ options:
                         Minimum sequence length for filtering (default: 2000bp)
   -v, --version         Show script version information
 ~~~
+## example
+~~~
+gunzip test.fasta.gz
+python GDMCv.py -i test.fasta -l 5000 -0 Virus
+~~~
 
 ## Reference
 ~~~
